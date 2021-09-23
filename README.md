@@ -12,8 +12,4 @@
 
 
 
-    <iframe width="560" height="315"
-src="https://youtu.be/nFaZxqBr0ao" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+  [![Everything Is AWESOME](https://i9.ytimg.com/vi_webp/nFaZxqBr0ao/mqdefault.webp?v=614cedf5&sqp=CKjas4oG&rs=AOn4CLCmyWtiw28WmbcAaRWNIpFO1wGibw)](https://youtu.be/nFaZxqBr0ao "Everything Is AWESOME")
